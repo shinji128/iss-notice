@@ -18,5 +18,6 @@ module IssNotice
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+    config.hosts << 'https://iss-notice.onrender.com'
   end
 end
