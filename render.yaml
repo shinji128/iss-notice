@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: iss-notixe
+    name: iss-notice
     env: ruby
     region: singapore
     plan: free
